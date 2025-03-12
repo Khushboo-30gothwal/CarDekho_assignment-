@@ -1,4 +1,4 @@
-question ans answer
+question and answer
 
 
 
@@ -9,6 +9,15 @@ question ans answer
 
 
 
+
+
+graph plotting
+
+
+
+
+
+![Screenshot (1583)](https://github.com/user-attachments/assets/c3552c56-eeff-4b08-93b9-131a2017b250)
 
 
 
