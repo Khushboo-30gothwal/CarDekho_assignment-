@@ -1,4 +1,4 @@
-live demo link:: https://huggingface.co/spaces/missdragon/csv-qa-visualizer
+live demo link:: https://huggingface.co/spaces/khushboogothwal/csv-qa-visualizer
 
 
 
